@@ -59,7 +59,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ currentCar, onGetStart
           </div>
           
           <div className="relative flex justify-center items-center">
-            <img src="/untitled.png" alt="Placeholder Image" className="max-w-full h-auto rounded-lg shadow-lg" />
+            <img src="/untitled2.png" alt="Placeholder Image" className="max-w-full h-auto rounded-lg shadow-lg" />
           </div>
         </div>
       </div>
